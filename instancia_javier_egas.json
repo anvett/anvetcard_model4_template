@@ -1,0 +1,219 @@
+{
+  "profile": {
+    "name": "Javier Egas",
+    "title": "Cantante Profesional",
+    "description": "Haz que tu evento sea un momento único e inolvidable para ti y tus invitados.",
+    "image": "/assets/images/profile/logo.jpg",
+    "phone": "+593999938448",
+    "website": ""
+  },
+  "contact": [
+    {
+      "type": "phone",
+      "icon": "/assets/icons/call.png",
+      "text": "Llamar",
+      "action": "tel:+593999938448"
+    },
+    {
+      "type": "email",
+      "icon": "/assets/icons/email.png",
+      "text": "Email",
+      "action": "mailto:javieregas@hotmail.com"
+    },
+    {
+      "type": "location",
+      "icon": "/assets/icons/location.png",
+      "text": "Ubicación",
+      "address": "Quito, Ecuador",
+      "hours": "Eventos todo el año",
+      "googleMapsLink": "https://maps.google.com?q=Quito,+Ecuador"
+    }
+  ],
+  "socialLinks": [
+    {
+      "type": "facebook",
+      "icon": "facebook.png",
+      "url": "https://www.facebook.com/Javieregasoficial/",
+      "text": "Facebook"
+    },
+    {
+      "type": "instagram",
+      "icon": "instagram.jpg",
+      "url": "https://www.instagram.com/javieregasoficial/",
+      "text": "Instagram"
+    },
+    {
+      "type": "tiktok",
+      "icon": "tiktok.png",
+      "url": "https://www.tiktok.com/@javieregasecuador?_t=ZM-8vmwdilfMmc&_r=1",
+      "text": "TikTok"
+    },
+    {
+      "type": "youtube",
+      "icon": "youtube.png",
+      "url": "https://www.youtube.com/@javieregasoficial",
+      "text": "YouTube"
+    }
+  ],
+  "products": [
+    {
+      "title": "Javier Egas Evolution Banda",
+      "type": "image",
+      "image": "/assets/images/services/banda.jpg",
+      "description": [
+        "Concierto con músicos en vivo",
+        "Propuesta musical de alto impacto",
+        "Derroche de energía y show visual",
+        "Cobertura de todos los géneros musicales",
+        "Duración hasta 2 horas y media continuas"
+      ],
+      "highlight": "Vive la magia de un concierto inolvidable"
+    },
+    {
+      "title": "Javier Egas Performance Pistas",
+      "type": "image",
+      "image": "/assets/images/services/performance.jpg",
+      "description": [
+        "Repertorio musical amplio y variado",
+        "Efectos especiales y ambientación",
+        "Amplificación propia incluida",
+        "Flexibilidad de 1 a 3 horas de show",
+        "Ideal para eventos sociales y corporativos"
+      ],
+      "highlight": "El show que se adapta a tu evento"
+    },
+    {
+      "title": "Amplificación Profesional",
+      "type": "image",
+      "image": "/assets/images/services/amplificacion.jpg",
+      "description": [
+        "Sistema Line Array para grandes eventos",
+        "Sonido aéreo de alta fidelidad",
+        "Tarimas, carpas, iluminación y pantallas LED",
+        "Eventos al aire libre o en interiores",
+        "Servicio técnico especializado"
+      ],
+      "highlight": "Sonido impecable para cada ocasión"
+    },
+    {
+      "title": "Producción de Eventos",
+      "type": "image",
+      "image": "/assets/images/services/produccion_eventos.jpg",
+      "description": [
+        "Representación de artistas y bandas",
+        "Contratación de DJs y animadores",
+        "Logística de eventos completos",
+        "Diseño de escenografías y ambientaciones",
+        "Gestión de estructuras y generadores eléctricos"
+      ],
+      "highlight": "Todo lo que tu evento necesita"
+    }
+  ],
+  "education": [
+    {
+      "title": "Experiencia Artística Consolidada",
+      "date": "Más de 15 años",
+      "details": [
+        "Amplio repertorio musical en vivo",
+        "Shows personalizados para cada evento",
+        "Participación en escenarios nacionales e internacionales",
+        "Colaboraciones con reconocidos artistas",
+        "Adaptabilidad a diferentes públicos y edades",
+        "Garantía de profesionalismo y calidad"
+      ]
+    },
+    {
+      "title": "Propuesta Musical Integral",
+      "date": "Conceptos innovadores",
+      "details": [
+        "Shows energéticos y de alto impacto",
+        "Cobertura de géneros musicales variados",
+        "Interacción con el público durante el evento",
+        "Uso de tecnología de última generación",
+        "Sincronización de música, luces y efectos especiales",
+        "Experiencia inmersiva asegurada"
+      ]
+    },
+    {
+      "title": "Infraestructura de Alto Nivel",
+      "date": "Tecnología avanzada",
+      "details": [
+        "Sistemas de sonido de alta calidad",
+        "Montaje de escenarios y estructuras profesionales",
+        "Pantallas LED de última generación",
+        "Iluminación ambiental dinámica",
+        "Generadores eléctricos propios",
+        "Técnicos de sonido y montaje experimentados"
+      ]
+    },
+    {
+      "title": "Amplificación y Producción Especializada",
+      "date": "Eventos a medida",
+      "details": [
+        "Montaje de eventos sociales y corporativos",
+        "Diseño de escenografías innovadoras",
+        "Servicio integral desde la planificación hasta ejecución",
+        "Representación de artistas profesionales",
+        "Flexibilidad para diferentes tamaños de evento",
+        "Compromiso total con el éxito del evento"
+      ]
+    },
+    {
+      "title": "Calidad Garantizada",
+      "date": "Compromiso total",
+      "details": [
+        "Resultados que superan expectativas",
+        "Show musical adaptable a cualquier tipo de evento",
+        "Puntualidad y seriedad profesional",
+        "Atención personalizada y asesoramiento",
+        "Flexibilidad de repertorio según el público",
+        "Constante actualización de tecnología y repertorio"
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "image": "/assets/images/slides/show1.jpg",
+      "title": "Show en vivo"
+    },
+    {
+      "image": "/assets/images/slides/show2.jpg",
+      "title": "Efectos Especiales"
+    },
+    {
+      "image": "/assets/images/slides/show3.jpg",
+      "title": "Conciertos Corporativos"
+    },
+    {
+      "image": "/assets/images/slides/show4.jpg",
+      "title": "Eventos Privados"
+    },
+    {
+      "image": "/assets/images/slides/show5.jpg",
+      "title": "Tour Nacional"
+    }
+  ],
+  "testimonials": [
+    {
+      "image": "/assets/images/testimonials/test1.jpg",
+      "name": "María Fernanda V.",
+      "title": "Organizadora de Eventos",
+      "message": "El show de Javier Egas superó nuestras expectativas, energía y profesionalismo en todo momento.",
+      "category": "Clientes"
+    },
+    {
+      "image": "/assets/images/testimonials/test2.jpg",
+      "name": "Carlos Paredes",
+      "title": "Gerente Corporativo",
+      "message": "Excelente coordinación y un espectáculo de primer nivel para nuestro evento anual.",
+      "category": "Clientes"
+    },
+    {
+      "image": "/assets/images/testimonials/test3.jpg",
+      "name": "Andrea Salazar",
+      "title": "Novia",
+      "message": "Hizo que nuestra boda fuera mágica. Todos los invitados quedaron encantados.",
+      "category": "Clientes"
+    }
+  ]
+}
