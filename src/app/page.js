@@ -353,7 +353,7 @@ export default function TemplateCard() {
       </section>
 
       {/* Información de Pago */}
-      <section id="info_pago" className="bg-gradient-subtle">
+      {/* <section id="info_pago" className="bg-gradient-subtle">
         <BankInfo
           banks={banksData}
           titleOptions={{
@@ -378,7 +378,7 @@ export default function TemplateCard() {
             closeButtonText: "Cerrar",
           }}
         />
-      </section>
+      </section> */}
 
       {/* QR para contacto */}
       <section className="bg-gradient-contrast">
